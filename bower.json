@@ -7,7 +7,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/purescript-contrib/purescript-argonaut.git"
+    "url": "https://github.com/purescript-contrib/purescript-argonaut.git"
   },
   "license": "MIT",
   "dependencies": {
